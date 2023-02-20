@@ -1,0 +1,10 @@
+author: Freezy
+name: Freezy
+version: 1.0
+main: de.freezy.mesystem.instance.Instance
+api-version: 1.19
+commands:
+  home:
+  back:
+  locmob:
+  test:
